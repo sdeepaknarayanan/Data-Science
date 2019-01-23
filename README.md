@@ -1,4 +1,3 @@
-==========
-# Data-Science
 
-Assignments and Project of Data Science Course at IIT Gandhinagar
+# Data-Science
+1. Heart of Data Science and Machine Learning
